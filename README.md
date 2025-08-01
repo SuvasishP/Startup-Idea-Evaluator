@@ -1,2 +1,31 @@
-# Startup-Idea-Evaluator
-A sleek, fully responsive web application built using HTML, CSS, JavaScript, and Bootstrap that evaluates startup ideas based on six critical inputs—problem statement, solution, target audience, market size, revenue model, and team experience.
+# 🚀 Startup Idea Evaluator
+
+A modern, AI-assisted web app that lets aspiring entrepreneurs evaluate their startup ideas instantly! Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, it scores business ideas based on six key factors and provides actionable insights.
+
+---
+
+## ✨ Features
+
+- 🎯 **Smart Scoring System** (0–100 scale)
+- 📊 **Radar Chart** with visual feedback using Chart.js
+- 🧠 **AI Suggestions** powered by OpenAI (or mock fallback)
+- 📄 **Downloadable PDF Reports**
+- 🖌️ **Stylish UI** with Blue/Black/White theme and keyframe animations
+- 📱 **Fully Responsive** & Mobile-Ready Design
+
+---
+
+## 📸 Screenshots
+
+*(Insert images here if needed — optional)*
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript ES6, Bootstrap 5
+- **Libraries:** Chart.js, jsPDF, Google Fonts (Poppins)
+- **AI Integration:** OpenAI API (optional)
+
+
+# Open index.html in any browser
