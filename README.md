@@ -15,17 +15,9 @@ A modern, AI-assisted web app that lets aspiring entrepreneurs evaluate their st
 
 ---
 
-## 📸 Screenshots
-
-*(Insert images here if needed — optional)*
-
----
-
 ## 📦 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript ES6, Bootstrap 5
 - **Libraries:** Chart.js, jsPDF, Google Fonts (Poppins)
 - **AI Integration:** OpenAI API (optional)
 
-
-# Open index.html in any browser
