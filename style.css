@@ -1,0 +1,60 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #000;
+  color: #fff;
+}
+
+h2.animate-heading {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { color: #0d6efd; }
+  50% { color: #0dcaf0; }
+}
+
+textarea, input, select {
+  background-color: #111;
+  color: white;
+  border: 1px solid #0d6efd;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+textarea:hover, input:hover, select:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 10px rgba(13, 110, 253, 0.5);
+}
+
+button {
+  transition: background-color 0.4s ease-in-out;
+}
+
+button:hover {
+  background-color: #0dcaf0;
+  color: black;
+}
+
+#resultBox {
+  background-color: #111;
+  transition: background-color 0.8s ease;
+}
+
+#resultBox.low-score {
+  background-color: #550000 !important;
+}
+
+#resultBox.medium-score {
+  background-color: #112233 !important;
+}
+
+#resultBox.high-score {
+  background-color: #003300 !important;
+}
+#aiSuggestions pre {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 10px;
+  border-left: 3px solid #0d6efd;
+  border-radius: 8px;
+  white-space: pre-wrap;
+  font-family: 'Poppins', sans-serif;
+}
